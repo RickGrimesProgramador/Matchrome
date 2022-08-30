@@ -1,0 +1,11 @@
+C:\Users\mathe\source\repos\Matchrome\Matchrome\bin\Debug\Matchrome.exe.config
+C:\Users\mathe\source\repos\Matchrome\Matchrome\bin\Debug\Matchrome.exe
+C:\Users\mathe\source\repos\Matchrome\Matchrome\bin\Debug\Matchrome.pdb
+C:\Users\mathe\source\repos\Matchrome\Matchrome\obj\Debug\Matchrome.csproj.AssemblyReference.cache
+C:\Users\mathe\source\repos\Matchrome\Matchrome\obj\Debug\Matchrome.Form1.resources
+C:\Users\mathe\source\repos\Matchrome\Matchrome\obj\Debug\Matchrome.Properties.Resources.resources
+C:\Users\mathe\source\repos\Matchrome\Matchrome\obj\Debug\Matchrome.csproj.GenerateResource.cache
+C:\Users\mathe\source\repos\Matchrome\Matchrome\obj\Debug\Matchrome.csproj.CoreCompileInputs.cache
+C:\Users\mathe\source\repos\Matchrome\Matchrome\obj\Debug\Matchrome.exe
+C:\Users\mathe\source\repos\Matchrome\Matchrome\obj\Debug\Matchrome.pdb
+C:\Users\mathe\source\repos\Matchrome\Matchrome\obj\Debug\Matchrome.Form2.resources
